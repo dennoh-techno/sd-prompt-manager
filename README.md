@@ -9,6 +9,7 @@ Insert Promptsタブにて、上記フォームで作成したカテゴリを選
 - ポジティブ・プロンプトに挿入したい場合、ボタンを左クリック
 - ネガティブ・プロンプトに挿入したい場合、ボタンを右クリック
 でプロンプト入力欄に挿入できます。
+
 ![image](https://github.com/user-attachments/assets/ce068a67-d12c-44cb-9194-f92d92b7a4de)
 
 ---
