@@ -8,6 +8,7 @@
 ![image](https://github.com/user-attachments/assets/c0ca12f8-3130-44af-88fd-31b1f55fc6d1)
 
 以下のように入力して、よく使用するプロンプトの塊を管理します。  
+
 ![image](https://github.com/user-attachments/assets/36599cca-e9c3-482e-874b-272686ec43f3)
   
 Insert Promptsタブにて、上記フォームで作成したカテゴリを選択すると、ラベル（ボタン）が表示されます。
