@@ -1,4 +1,6 @@
 categories:
   quality:
-  - label: best
+  - label: positive
     prompt: masterpiece, best quality,
+  - label: negative
+    prompt: low quality, lowres, abstract,
