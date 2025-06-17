@@ -2,6 +2,7 @@
 
 主にAIで作成したStable Diffusion WebUI用のプロンプト管理・挿入拡張機能です。  
 カテゴリ・ラベルごとにプロンプトを整理し、ワンクリックでプロンプト欄やネガティブプロンプト欄へ挿入できます。
+![image](https://github.com/user-attachments/assets/c0ca12f8-3130-44af-88fd-31b1f55fc6d1)
 
 ---
 
