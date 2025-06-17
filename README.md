@@ -1,6 +1,6 @@
 # sd-prompt-manager
 
-Stable Diffusion WebUI用のプロンプト管理・挿入拡張機能です。  
+主にAIで作成したStable Diffusion WebUI用のプロンプト管理・挿入拡張機能です。
 カテゴリ・ラベルごとにプロンプトを整理し、ワンクリックでプロンプト欄やネガティブプロンプト欄へ挿入できます。
 
 ---
