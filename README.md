@@ -18,7 +18,7 @@
 ## インストール方法
 
 Stable Diffusion WebUIを使用の場合は、  
-拡張機能タブから、拡張機能のリポジトリのURL（URL for extension's git repository）  に  
+拡張機能(Extensions)タブから、拡張機能のリポジトリのURL（URL for extension's git repository）  に  
     ```
     https://github.com/dennoh-techno/sd-prompt-manager.git
     ```  
