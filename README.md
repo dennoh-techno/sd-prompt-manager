@@ -20,7 +20,7 @@ Stable Diffusion WebUI用のプロンプト管理・挿入拡張機能です。
 1. このリポジトリを`extensions`フォルダにクローンまたはコピーします。
 
     ```
-    git clone https://github.com/yourname/sd-prompt-manager.git
+    git clone https://github.com/dennoh-techno/sd-prompt-manager.git
     ```
 
 2. Stable Diffusion WebUIを再起動します。
